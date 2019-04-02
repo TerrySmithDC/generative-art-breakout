@@ -16,7 +16,7 @@ node --version
 ```
 
 ```
-npm i -canvas-sketch-cli -g
+npm i canvas-sketch-cli -g
 ```
 
 ## Setting up our enviornment
